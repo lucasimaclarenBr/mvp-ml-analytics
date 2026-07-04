@@ -23,7 +23,6 @@ Construir e comparar modelos de Machine Learning capazes de prever a segmentaç�
 | `MVP_Machine_Learning_Analytics_Lucas_Igreja_Mac_Laren.ipynb` | Notebook principal do projeto |
 | `tb_br_2512.zip` | Base de dados da ANS (dez/2025) |
 | `Dicionário de Dados ANS.pdf` | Documentação oficial das variáveis |
-| `br_states.json` | Malha geográfica das UFs (recurso auxiliar) |
 
 ## Como executar
 
